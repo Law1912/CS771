@@ -1,6 +1,6 @@
 # CS771A Machine Learning - Homework 2
 
-This repository contains the solutions and code implementation for Homework 2 of the CS771A Machine Learning course (Autumn 2023) at IIT Kanpur. The assignment covers topics such as Stochastic Gradient Descent (SGD) for K-means, ideal projection, PCA, latent variable models for supervised learning, and programming problems involving kernel ridge regression, K-means clustering, and dimensionality reduction with PCA and tSNE.
+This repository contains the solutions and code implementation for Homework 2 of the CS771A Machine Learning course (Odd Sem of 2023) at IIT Kanpur. The assignment covers topics such as Stochastic Gradient Descent (SGD) for K-means, ideal projection, PCA, latent variable models for supervised learning, and programming problems involving kernel ridge regression, K-means clustering, and dimensionality reduction with PCA and tSNE.
 
 ## Assignment Structure
 
