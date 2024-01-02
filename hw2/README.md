@@ -34,8 +34,3 @@ This repository contains the solutions and code implementation for Homework 2 of
   - `.pkl` and `.txt` files: Data files for programming problem.
   - `.ipynb` files: Respective implementation of programing problem parts.
   - `.png` files: Output files for the implemented code.
-
-## Note
-
-- The provided dataset and pickle file are not included in the repository.
-
