@@ -18,9 +18,16 @@ This repository contains the solutions and code implementation for Homework 1 of
 
 6. **Programming Problem (40 marks):** Implementing prototype-based classification using class attribute vectors on the "Animals with Attributes" dataset.
 
+## Solutions PDF
+
+- [CS771_HW1_210264.pdf](CS771_HW1_210264.pdf)
+
+**Note:** The programming part solutions are provided in separate Python notebooks in data folder and not included in the PDF.
+
 ### Repository Structure
 
 - `hw1sol.tex`, `ml.sty`, and `mlsubmit.sty`: LaTeX template and style file for the main write-up.
+- `CS771_HW2_210264.pdf`: My solution pdf.
 - [`data/AwA_python/convex.py`](data/AwA_python/convex.py): Code implementation for Method 1 of the programming problem.
 - [`data/AwA_python/regress.py`](data/AwA_python/regress.py): Code implementation for Method 2 of the programming problem.
 - [`data/pseudocode.txt`](data/pseudocode.txt): pseudocode for the implementations.
